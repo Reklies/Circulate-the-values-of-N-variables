@@ -31,7 +31,8 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-![output](/Screenshot%20from%202023-10-17%2014-11-45.png)
+![Screenshot 2023-10-20 131355](https://github.com/Reklies/Circulate-the-values-of-N-variables/assets/147139232/89135ffe-6e66-4e3c-881b-0616764a530f)
+
 
 ## Result:
 Thus the python program for circulate the values of n variables is executed successfully
